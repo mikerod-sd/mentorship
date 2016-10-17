@@ -39,6 +39,7 @@
 * [Security Week] (http://www.securityweek.com/)
 * [Securify Blog] (https://www.securify.nl/blog.html)
 * [Fastly Security Blog] (https://www.fastly.com/blog/category/security)
+* [Dinis Cruz Blog - Application Security] (http://blog.diniscruz.com/)
 
 ### Cyber Security (InfoSec) - General
 * [Hack 'n' Slash](http://store.steampowered.com/app/246070/)
