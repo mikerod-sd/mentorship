@@ -61,6 +61,7 @@
 * [Mozilla Web Security Guide] (https://wiki.mozilla.org/Security/Guidelines/Web_Security)
 * [C++ Coding Guide] (https://github.com/isocpp/cppcoreguidelines)
 * [CERT Secure Coding Guides (C,C++,Android,Java,Perl)] (https://www.securecoding.cert.org/confluence/display/seccode/SEI+CERT+Coding+Standards)
+* [SANS Top 25 Coding Errors] (https://www.sans.org/top25-software-errors/)
 * [Building Security In Maturity Model (BSIMM)] (https://www.bsimm.com/)
 * [OpenSAMM (Software Assurance Maturity Model)] (http://www.opensamm.org/)
 * [Microsoft Security Development Lifecycle - Waterfall] (https://www.microsoft.com/en-us/sdl/)
@@ -96,5 +97,15 @@
 * [Apple Security Certifications & Guidance] (https://support.apple.com/en-us/HT202739)
 * [Cloud Security Alliance Critical Areas for Mobile Computing] (https://downloads.cloudsecurityalliance.org/initiatives/mobile/Mobile_Guidance_v1.pdf)
 * [Cloud Security Alliance Secure Development of IoT] (https://downloads.cloudsecurityalliance.org/assets/research/internet-of-things/future-proofing-the-connected-world.pdf)
-
+ 
 ### Information Security Frameworks/Standards 
+* [ISO/IEC 27001:2013 (Information Security Management System ISMS)] (http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=54534)
+* [ISO/IEC 27002 (Best Practice Controls in Relation to ISMS)] (
+* [NIST CyberSecurity Framework} (http://www.nist.gov/cyberframework/)
+* [Payment Card Industry (PCI) DSS] (https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss)
+* [Health Insurance Portability and Accountability Act (HIPAA)] (http://www.hhs.gov/hipaa/for-professionals/security/)
+* [Federal Financial Institutions Examination Council (FFIEC) Security Guides] (http://ithandbook.ffiec.gov/it-booklets/e-banking/risk-management-of-e-banking-activities/information-security-program/security-guidelines.aspx)
+* [Securities and Exchange Commission (SEC) Cyber Security Guidance] (https://www.sec.gov/spotlight/cybersecurity.shtml)
+* [Federal Trade Commission (FTC) Data Security Guide] (https://www.ftc.gov/tips-advice/business-center/privacy-and-security/data-security)
+* [Federal Communications Commission (Small Business Focused)] (https://www.fcc.gov/cyberplanner)
+* [Center for Internet Security (CIS) Critical Controls] (https://www.cisecurity.org/critical-controls/Library.cfm)
