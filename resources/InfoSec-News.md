@@ -1,5 +1,4 @@
-# Cyber Security News/Blogs
-
+### Cyber/Information Security News/Blogs
 * [CSO from IDG](http://www.csoonline.com/)
 * [Dark Reading](http://www.darkreading.com)
 * [Hack in the Box](http://www.hackinthebox.org/)
@@ -33,3 +32,65 @@
 * [Klikki Oy](https://klikki.fi/)
 * [Security-Shell](https://security-sh3ll.blogspot.com/)
 * [{ Better } Hacker](http://www.betterhacker.com/)
+* [Netflix Tech Blog (Not 100% security focused)] (http://techblog.netflix.com/)
+* [Troy Hunt Blog] (https://www.troyhunt.com/)
+* [Securosis Blog] (https://securosis.com/blog)
+* [Cigital Blog] (https://www.cigital.com/blog/)
+* [Security Week] (http://www.securityweek.com/)
+* [Securify Blog] (https://www.securify.nl/blog.html)
+* [Fastly Security Blog] (https://www.fastly.com/blog/category/security)
+
+### Cyber Security (InfoSec) - General
+* [Hack 'n' Slash](http://store.steampowered.com/app/246070/)
+* [Cybrary](https://www.cybrary.it)
+* [Hacksplaining](https://www.hacksplaining.com/)
+* [Infographic -- Cyber Kill Chain](http://cyber.lockheedmartin.com/solutions/cyber-kill-chain) [Deadlink?]
+* [Bugcrowd Tutorials](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
+* [Slideshow -- 5 Tools for Better Code Security](http://www.infoworld.com/article/3048399/application-development/5-dev-tools-for-better-code-security.html)
+* [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
+* [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
+* [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
+* [Microsoft Security Development Lifecycle - Waterfall] (https://www.microsoft.com/en-us/sdl/)
+* [Microsoft Security Development Lifecycle - Agile] (https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
+* [Securing DevOps] (https://www.manning.com/books/securing-devops)
+
+### Application Security (Software Security)
+* [OWASP] (https://www.owasp.org/index.php/Main_Page)
+* [Angular Security Guide] (https://docs.angularjs.org/guide/security)
+* [SafeCode Security Training] (https://www.youtube.com/playlist?list=PLgiLlNCU6s9eeasnGXAMZj825uU6s7Nje)
+* [Mozilla SSL Configuration Generator] (https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Mozilla Web Security Guide] (https://wiki.mozilla.org/Security/Guidelines/Web_Security)
+* [C++ Coding Guide] (https://github.com/isocpp/cppcoreguidelines)
+* [CERT Secure Coding Guides (C,C++,Android,Java,Perl)] (https://www.securecoding.cert.org/confluence/display/seccode/SEI+CERT+Coding+Standards)
+* [Building Security In Maturity Model (BSIMM)] (https://www.bsimm.com/)
+* [OpenSAMM (Software Assurance Maturity Model)] (http://www.opensamm.org/)
+
+### Reverse Engineering
+* [Intro to Reverse Engineering](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html)
+
+### Pentesting
+* [Pentester Academy](http://www.pentesteracademy.com/video)
+* [DDoS Hacking Forum](http://ddoshackingarticles.com/forum.php) [Deadlink?]
+* [Hack Yourself First -- PluralSight](https://www.pluralsight.com/courses/hack-yourself-first)
+
+### Vulnerable Apps/VM's
+* [Vulnerable Node] (https://github.com/cr0hn/vulnerable-node)
+* [pwnableweb] (https://github.com/Matir/pwnableweb)
+* [Webgoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+* [OWASP-VWAD] (https://github.com/OWASP/OWASP-VWAD)
+
+### CTFs
+* [Pynet](https://pynet.twb-tech.com/)
+* [Offensive Security](https://www.offensive-security.com/metasploit-unleashed/python-extension-2/)
+* [P0wnlabs](http://www.p0wnlabs.com/free/vms)
+* [Vulnhub](https://www.vulnhub.com/)
+* [Rapid 7](https://community.rapid7.com/docs/DOC-2196)
+* [War Games](http://overthewire.org/wargames/)
+* [Net Garage](http://io.netgarage.org/)
+* [Pico CTF](https://picoctf.com/)
+* [Hack This Site](https://www.hackthissite.org)
+
+### Mobile/IoT Security Guides
+* [Apple Security Certifications & Guidance] (https://support.apple.com/en-us/HT202739)
+* [Cloud Security Alliance Critical Areas for Mobile Computing] (https://downloads.cloudsecurityalliance.org/initiatives/mobile/Mobile_Guidance_v1.pdf)
+* [Cloud Security Alliance Secure Development of IoT] (https://downloads.cloudsecurityalliance.org/assets/research/internet-of-things/future-proofing-the-connected-world.pdf)
