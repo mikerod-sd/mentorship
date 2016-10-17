@@ -100,8 +100,8 @@
  
 ### Information Security Frameworks/Standards 
 * [ISO/IEC 27001:2013 (Information Security Management System ISMS)] (http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=54534)
-* [ISO/IEC 27002 (Best Practice Controls in Relation to ISMS)] (
-* [NIST CyberSecurity Framework} (http://www.nist.gov/cyberframework/)
+* [ISO/IEC 27002 (Best Practice Controls in Relation to ISMS)] (http://www.iso.org/iso/catalogue_detail?csnumber=54533)
+* [NIST CyberSecurity Framework] (http://www.nist.gov/cyberframework/)
 * [Payment Card Industry (PCI) DSS] (https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss)
 * [Health Insurance Portability and Accountability Act (HIPAA)] (http://www.hhs.gov/hipaa/for-professionals/security/)
 * [Federal Financial Institutions Examination Council (FFIEC) Security Guides] (http://ithandbook.ffiec.gov/it-booklets/e-banking/risk-management-of-e-banking-activities/information-security-program/security-guidelines.aspx)
