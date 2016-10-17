@@ -50,9 +50,7 @@
 * [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
 * [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
-* [Microsoft Security Development Lifecycle - Waterfall] (https://www.microsoft.com/en-us/sdl/)
-* [Microsoft Security Development Lifecycle - Agile] (https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
-* [Securing DevOps] (https://www.manning.com/books/securing-devops)
+
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
@@ -64,6 +62,9 @@
 * [CERT Secure Coding Guides (C,C++,Android,Java,Perl)] (https://www.securecoding.cert.org/confluence/display/seccode/SEI+CERT+Coding+Standards)
 * [Building Security In Maturity Model (BSIMM)] (https://www.bsimm.com/)
 * [OpenSAMM (Software Assurance Maturity Model)] (http://www.opensamm.org/)
+* [Microsoft Security Development Lifecycle - Waterfall] (https://www.microsoft.com/en-us/sdl/)
+* [Microsoft Security Development Lifecycle - Agile] (https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
+* [Securing DevOps] (https://www.manning.com/books/securing-devops)
 
 ### Reverse Engineering
 * [Intro to Reverse Engineering](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html)
